@@ -17,7 +17,7 @@ START_PIC = Config.START_PIC
 
 
 if not START_PIC:
-    START_PIC = "https://telegra.ph/file/af048a5ce51f8f0449adb.jpg"
+    START_PIC = "https://telegra.ph/file/183bba59a4e7f2c2dc670.jpg"
 
 #rich
 LOG = Console()
