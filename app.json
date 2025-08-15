@@ -12,15 +12,18 @@
     "success_url": "https://t.me/FONT_CHANNEL_01",
     "env": {
         "API_ID": {
-            "description": "20136640",
+            "description": "YOUR API ID",
+            "value": "20136640",
             "required": true
         },
         "API_HASH": {
-            "description": "32fa482ffd34ceefec26b7ccd73c4fbb",
+            "description": "YOUR API HASH",
+            "Value": "32fa482ffd34ceefec26b7ccd73c4fbb",
             "required": true
         },
         "TOKEN": {
-            "description": "7324432991:AAF2GaYhLNqHWz3aIzC3EnoE16BG0OiZvMA",
+            "description": "YOUR BOT TOKEN",
+            "value": "7324432991:AAF2GaYhLNqHWz3aIzC3EnoE16BG0OiZvMA",
             "required": true
         }
     },
